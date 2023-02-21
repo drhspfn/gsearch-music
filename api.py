@@ -28,7 +28,7 @@ class mAPI:
             self.EndTime = time.time() - self.startTime
             print(Fore.GREEN + f"[DEBUG] Search Time: {self.EndTime}")
         try:
-
+ 
 
             ## Get the name of the file on the server
             local_filename = link.split('/')[-1]
