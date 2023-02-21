@@ -1,3 +1,3 @@
 # gsearch-music
 
-##
+## General information
